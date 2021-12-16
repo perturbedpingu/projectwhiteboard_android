@@ -14,5 +14,7 @@ Download and install the APK file from https://github.com/perturbedpingu/project
 
 ## Other Links
 ProjectWhiteboard is available for the following platforms:
+
 HTML5 (Browser) : https://github.com/perturbedpingu/projectwhiteboard_html5_optimized
+
 Windows : https://github.com/perturbedpingu/projectwhiteboard_windows
